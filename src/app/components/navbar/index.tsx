@@ -11,8 +11,9 @@ const NavbarContainer = styled.div`
         flex
         flex-row
         items-center
-        lg: pl-12
-        lg: pr-12
+        px-1
+        lg:pl-12
+        lg:pr-12
         justify-between
     `}
 `
